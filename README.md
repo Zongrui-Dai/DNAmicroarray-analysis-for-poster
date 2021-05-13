@@ -1,2 +1,2 @@
 # DNAmicroarray-analysis-for-poster
-DNAmicroarray analysis for poster
+This programs aims to present the Rcode for the analysis in DNA microarray. It includes Kmeans, hcluster, and hotmap.
